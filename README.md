@@ -8,6 +8,8 @@
     - Sign Up/ Sign In Page
         -Header
         -Login Form
+        -Sign Up Form
+        -Form Validation (useRef hook)
     - redirect to Browse page
 - Browse(Only after authentication)
     - Header
