@@ -6,6 +6,8 @@
 # Technolgies
 - Login/ SignUp Page
     - Sign Up/ Sign In Page
+        -Header
+        -Login Form
     - redirect to Browse page
 - Browse(Only after authentication)
     - Header
