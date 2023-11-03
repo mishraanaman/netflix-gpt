@@ -10,7 +10,13 @@
         -Login Form
         -Sign Up Form
         -Form Validation (useRef hook)
-    - redirect to Browse page
+        -firesbase setup
+        - redirect to Browse page
+        -SIGN UP user
+        - Created Redux store with User Slice
+        - Implemented Sign Out
+        - redirection
+        - movies from TMDB
 - Browse(Only after authentication)
     - Header
     - Main Movies
